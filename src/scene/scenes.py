@@ -111,8 +111,8 @@ class Scene:
 
     def to_screen(self, point: Point) -> Point:
         new_point = Point(
-            (self.screen_width * (point.x + 1))//2,
-            (self.screen_height * (point.y + 1))//2
+            int(self.screen_width * (point.x + 1))//2,
+            int(self.screen_height * (point.y + 1))//2
         )
         return new_point
 

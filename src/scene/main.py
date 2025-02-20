@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+"""
+Runs an simulation scene as microservice using Flask
+Author: Emmanuel Larralde
+"""
+
 from flask import Flask, request, jsonify
 from threading import Thread
 
