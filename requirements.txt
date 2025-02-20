@@ -1,0 +1,7 @@
+Flask==3.1.0
+pygame==2.6.1
+PyOpenGL==3.1.7
+PyOpenGL-accelerate==3.1.9
+numpy==1.26.0
+pillow==10.4.0
+opencv-python==4.10.0.84
