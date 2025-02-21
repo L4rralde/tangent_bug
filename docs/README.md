@@ -1,6 +1,6 @@
 # TangentBug
 
-[![video](https://img.youtube.com/vi/KXCm3vgtcbM/0.jpg)](https://www.youtube.com/watch?v=KXCm3vgtcbM)
+[![video](video.jpg)](https://www.youtube.com/watch?v=KXCm3vgtcbM)
 
 
 ## Sobre el software
