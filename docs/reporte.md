@@ -89,6 +89,12 @@ pip intstall -r requirements.txt
 
 ### Uso
 
+Para correr el programa: 
+
+```sh
+python src/tangent.py
+```
+
 Revisando una porción del código:
 
 ```python
