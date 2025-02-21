@@ -78,7 +78,7 @@ cd tangent_bug
 
 ```sh
 python -m venv .venv
-source .env/bin/activate
+source .venv/bin/activate
 ```
 
 3. Instala las dependencias
